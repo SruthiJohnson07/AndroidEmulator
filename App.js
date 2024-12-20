@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'yellowgreen',
+    backgroundColor: 'pink',
     padding: 20,
   },
   card: {
